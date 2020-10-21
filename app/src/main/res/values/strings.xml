@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">shaadi-assignment</string>
+    <string name="messageWithLink">This is a message with a link inside!\n<a href="ht
+    tps://www.google.com/">open.com</a></string>
+    <string name="readyandroid"><![CDATA[<a href="https://readyandroid.wordpress.com/">readyandroid.com</a>]]></string>
+    <string name="accept_status">Congrats!!! You have accepted this profile</string>
+    <string name="decline_status">Oops!!! You have rejected this profile</string>
+</resources>
