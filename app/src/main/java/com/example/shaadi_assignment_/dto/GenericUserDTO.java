@@ -4,6 +4,9 @@ public class GenericUserDTO {
     public String gender;
     public String first;
     public String last;
+    public String email;
+    public int age;
+    public String status;
     
     public String getThumbnail() {
         return thumbnail;
@@ -87,8 +90,6 @@ public class GenericUserDTO {
         this.status = status;
     }
     
-    public String email;
-    public int age;
-    public String status;
+
     
 }
